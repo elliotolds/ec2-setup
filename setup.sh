@@ -17,7 +17,7 @@ nvm use v0.10.12
 sudo apt-get -qq update
 
 # install Node JavaScript package manager
-sudo apt-get install npm
+sudo apt-get install -y npm
 
 # Install jshint to allow checking of JS code within emacs
 # http://jshint.com/
