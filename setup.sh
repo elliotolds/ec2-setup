@@ -16,7 +16,7 @@ nvm use v0.10.12
 # make sure everything is up to date, otherwise installing npm fails
 sudo apt-get -qq update
 
-# install Node JavaScript package manager
+# install Node Javascript package manager
 sudo apt-get install -y npm
 
 # Install jshint to allow checking of JS code within emacs
